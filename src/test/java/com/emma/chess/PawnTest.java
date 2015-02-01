@@ -30,5 +30,6 @@ public class PawnTest {
 		Pawn noColor = new Pawn();
 		assertEquals("White", noColor.getColor());
 	}
+	
 
 }
